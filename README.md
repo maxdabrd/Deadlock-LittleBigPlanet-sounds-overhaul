@@ -1,5 +1,5 @@
 # Deadlock-LittleBigPlanet-sounds-overhaul
-Added around 70 new LittleBigPlanet sounds, overhauling a big part of the sound environment of Deadlock. All sounds are sourced and mixed from LittleBigPlanet 1/2's source material, all copyrights owned by Media Molecule.
+Added around 70 new LittleBigPlanet sounds, overhauling a big part of the sound environment of Deadlock. Download the Main Bundle to experience all this mod offers, or install however many of the 8 new modules, for those who feel like they want a more vanilla Deadlock experience.
 
 Includes:
 
